@@ -9,7 +9,7 @@ def read_file_to_json(filename):
 
     return bytes(s, "utf-8").decode("unicode_escape")
 
-API_KEY = "Bearer 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"
+API_KEY = "API_KEY_HERE"
 
 def main():
     history = []
