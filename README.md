@@ -19,4 +19,6 @@ py T8.py
 
 #### Recommendations
 
+Warn ChatGPT that you're about to send a large message or file or whatever, and request that it only acknowledges receiving the message, and that you will ask further questions once it replies.
+
 I like to have a copy of T8.py in a dedicated folder with any project i'm working on, so i have a dedicated ChatGPT instance with a separate chat history for each project
