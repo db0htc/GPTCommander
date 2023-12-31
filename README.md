@@ -15,6 +15,8 @@ py T8.py
 
 &ensp;&ensp;QUIT&ensp;&ensp;&ensp;&ensp; Saves the history to hist.txt, saves a human readable chat log to Output.log, and automatically saves THE LAST python code in ChatGPT's last response to Last.py (all of which are saved to the same directory as T8.py)
 
+:warning:&ensp;Nothing will be saved unless you type QUIT. This is intentional. Sometimes you mess up a prompt and need to go back.
+
 #### Recommendations
 
 I like to have a copy of T8.py in a dedicated folder with any project i'm working on, so i have a dedicated ChatGPT instance with a separate chat history for each project
